@@ -1,0 +1,14 @@
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\bin\Debug\56 ValidatesOnDataErrors.exe.config
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\bin\Debug\56 ValidatesOnDataErrors.exe
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\bin\Debug\56 ValidatesOnDataErrors.pdb
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\MainWindow.g.cs
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\App.g.cs
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\56 ValidatesOnDataErrors_MarkupCompile.cache
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\56 ValidatesOnDataErrors_MarkupCompile.lref
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\MainWindow.baml
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\56 ValidatesOnDataErrors.g.resources
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\_56_ValidatesOnDataErrors.Properties.Resources.resources
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\56 ValidatesOnDataErrors.csproj.GenerateResource.Cache
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\56 ValidatesOnDataErrors.exe
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\56 ValidatesOnDataErrors.pdb
+D:\Mein\General\_Privat\Eigene Videos\Video\SW\WPF\WPF 4.5 & Silverlight 5\WPF 4.5 and Silverlight 5\56 ValidatesOnDataErrors\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,26 @@
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Button Content="Laden" Width="95" HorizontalAlignment="Left" Margin="10" Command="{Binding LoadCommand}"></Button>
+        <TextBlock Text="{Binding LoadingTime}" Grid.Column="1" FontSize="40"></TextBlock>
+        <ListView Grid.Row="1" ItemsSource="{Binding Speakers}" Margin="10"></ListView>
+        <ListView Grid.Row="1" Grid.Column="1" ItemsSource="{Binding Sessions}" Margin="10"></ListView>
+    </Grid>
+
+<Grid>
+	<StackPanel>
+		<StackPanel Orientation="Horizontal" Height="30">
+			<Label Content="Objekt:"/>
+			<TextBox Width="100"/>
+			<Button Margin="3" Width="50" Name="btnSuche" Click="btnSuche_Click"/>
+		</StackPanel>
+	</StackPanel>
+	<Grid>
+	</Grid>
+</Grid>
